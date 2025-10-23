@@ -1,0 +1,12 @@
+{
+  "meta_model": "LinearRegression",
+  "base_models": [
+    "XGBoost",
+    "LightGBM",
+    "CatBoost"
+  ],
+  "test_mae": 25.763525882206064,
+  "test_rmse": 35.255460758742124,
+  "test_r2": 0.7116246625439073,
+  "n_base_models": 3
+}
